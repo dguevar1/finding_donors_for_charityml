@@ -2,6 +2,12 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Project Summary
+
+I evaluate and optimize several diferent supervised learners to determine which
+algorithm will provide the highest donation yield for a fictitious charity
+organization called CharityML.
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -13,7 +19,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Code
 
