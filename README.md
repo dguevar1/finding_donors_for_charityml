@@ -4,7 +4,7 @@
 
 ### Project Summary
 
-I evaluate and optimize several diferent supervised learners to determine which
+I evaluate and optimize several different supervised learners to determine which
 algorithm will provide the highest donation yield for a fictitious charity
 organization called CharityML.
 
